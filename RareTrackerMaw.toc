@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 120001
 ## Title: RareTrackerMaw
 ## Notes: Track and coordinate rare spawn timers in The Maw.
 ## Author: Melroy
